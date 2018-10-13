@@ -1,18 +1,18 @@
 
-root: /
+root: /about
 
-Home: /
+Home: /about
 Archives: /archives
 About: /about
 
 language: en
 
-author: fuzhouxx Dong
-description: good good study day day up
+author: devtty1er
+description:
 
 disqus:
   enable: false
   shortname:
 
 google_site_verification:
-google_analytics:
+google_analytics: UA-127405375-1
